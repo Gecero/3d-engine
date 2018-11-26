@@ -1,8 +1,10 @@
 ﻿  main.cpp
-c:\users\mariu\source\repos\3d\3d\main.cpp(71): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
-c:\users\mariu\source\repos\3d\3d\main.cpp(72): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
-c:\users\mariu\source\repos\3d\3d\main.cpp(74): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\main.cpp(83): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\main.cpp(91): warning C4305: "Argument": Verkürzung von "double" in "const float"
+c:\users\mariu\source\repos\3d\3d\main.cpp(96): warning C4305: "Argument": Verkürzung von "double" in "const float"
   Code wird generiert.
-  All 577 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  35 of 695 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Codegenerierung ist abgeschlossen.
   3D.vcxproj -> C:\Users\mariu\source\repos\3D\x64\Release\3D.exe
