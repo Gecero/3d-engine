@@ -1,10 +1,14 @@
 ﻿  main.cpp
-c:\users\mariu\source\repos\3d\3d\main.cpp(83): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
-c:\users\mariu\source\repos\3d\3d\main.cpp(91): warning C4305: "Argument": Verkürzung von "double" in "const float"
-c:\users\mariu\source\repos\3d\3d\main.cpp(96): warning C4305: "Argument": Verkürzung von "double" in "const float"
+c:\users\mariu\source\repos\3d\3d\main.cpp(120): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\main.cpp(125): warning C4305: "Argument": Verkürzung von "double" in "const float"
+c:\users\mariu\source\repos\3d\3d\main.cpp(126): warning C4305: "Argument": Verkürzung von "double" in "const float"
+c:\users\mariu\source\repos\3d\3d\main.cpp(127): warning C4305: "Argument": Verkürzung von "double" in "const float"
+c:\users\mariu\source\repos\3d\3d\main.cpp(132): warning C4305: "Argument": Verkürzung von "double" in "const float"
+c:\users\mariu\source\repos\3d\3d\main.cpp(133): warning C4305: "Argument": Verkürzung von "double" in "const float"
+c:\users\mariu\source\repos\3d\3d\main.cpp(134): warning C4305: "Argument": Verkürzung von "double" in "const float"
   Code wird generiert.
-  35 of 695 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
+  1 of 856 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Codegenerierung ist abgeschlossen.
   3D.vcxproj -> C:\Users\mariu\source\repos\3D\x64\Release\3D.exe

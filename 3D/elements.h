@@ -45,3 +45,7 @@ struct vertex {
 
 
 };
+
+struct triangle {
+	vertex data[3];
+};
