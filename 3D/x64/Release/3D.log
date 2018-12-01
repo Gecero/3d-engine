@@ -1,14 +1,35 @@
 ﻿  main.cpp
-c:\users\mariu\source\repos\3d\3d\main.cpp(120): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
-c:\users\mariu\source\repos\3d\3d\main.cpp(125): warning C4305: "Argument": Verkürzung von "double" in "const float"
-c:\users\mariu\source\repos\3d\3d\main.cpp(126): warning C4305: "Argument": Verkürzung von "double" in "const float"
-c:\users\mariu\source\repos\3d\3d\main.cpp(127): warning C4305: "Argument": Verkürzung von "double" in "const float"
-c:\users\mariu\source\repos\3d\3d\main.cpp(132): warning C4305: "Argument": Verkürzung von "double" in "const float"
-c:\users\mariu\source\repos\3d\3d\main.cpp(133): warning C4305: "Argument": Verkürzung von "double" in "const float"
-c:\users\mariu\source\repos\3d\3d\main.cpp(134): warning C4305: "Argument": Verkürzung von "double" in "const float"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdiplusheaders.h(701): warning C4458: Deklaration von "nativeCap" blendet Klassenmember aus
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdiplusheaders.h(716): note: Siehe Deklaration von "Gdiplus::CustomLineCap::nativeCap"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdiplusimageattributes.h(368): warning C4458: Deklaration von "nativeImageAttr" blendet Klassenmember aus
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdiplusimageattributes.h(382): note: Siehe Deklaration von "Gdiplus::ImageAttributes::nativeImageAttr"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdiplusmatrix.h(301): warning C4458: Deklaration von "nativeMatrix" blendet Klassenmember aus
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdiplusmatrix.h(315): note: Siehe Deklaration von "Gdiplus::Matrix::nativeMatrix"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdiplusbrush.h(95): warning C4458: Deklaration von "nativeBrush" blendet Klassenmember aus
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdiplusbrush.h(108): note: Siehe Deklaration von "Gdiplus::Brush::nativeBrush"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdipluspen.h(467): warning C4458: Deklaration von "nativePen" blendet Klassenmember aus
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdipluspen.h(481): note: Siehe Deklaration von "Gdiplus::Pen::nativePen"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdipluspath.h(891): warning C4458: Deklaration von "nativePath" blendet Klassenmember aus
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdipluspath.h(905): note: Siehe Deklaration von "Gdiplus::GraphicsPath::nativePath"
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdipluspath.h(1078): warning C4458: Deklaration von "nativeIterator" blendet Klassenmember aus
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gdipluspath.h(1092): note: Siehe Deklaration von "Gdiplus::GraphicsPathIterator::nativeIterator"
+c:\users\mariu\source\repos\3d\3d\olcpixelgameengine.h(233): warning C4201: Nicht dem Standard entsprechende Erweiterung: Struktur/Union ohne Namen
+c:\users\mariu\source\repos\3d\3d\olcpixelgameengine.h(1279): warning C4127: Bedingter Ausdruck ist konstant
+  c:\users\mariu\source\repos\3d\3d\olcpixelgameengine.h(1279): note: Verwenden Sie stattdessen ggf. die Anweisung "if constexpr".
+c:\users\mariu\source\repos\3d\3d\olcpixelgameengine.h(1339): warning C4100: "fElapsedTime": Unreferenzierter formaler Parameter
+c:\users\mariu\source\repos\3d\3d\olcpixelgameengine.h(1602): warning C4244: "Argument": Konvertierung von "int" in "uint8_t", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\olcpixelgameengine.h(1709): warning C4244: "Argument": Konvertierung von "WPARAM" in "const unsigned short", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\olcpixelgameengine.h(1710): warning C4244: "Argument": Konvertierung von "WPARAM" in "const unsigned short", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\render.h(23): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\render.h(33): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\render.h(40): warning C4244: "Argument": Konvertierung von "float" in "int32_t", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\benchmark.hpp(38): warning C4141: "inline": mehrmals verwendet
+  c:\users\mariu\source\repos\3d\3d\benchmark.hpp(107): note: Siehe Verweis auf die Klasse Vorlage-Instanziierung "benchmark<T>", die kompiliert wird.
+c:\users\mariu\source\repos\3d\3d\main.cpp(24): warning C4244: "=": Konvertierung von "int" in "decimal", möglicher Datenverlust
+c:\users\mariu\source\repos\3d\3d\main.cpp(25): warning C4244: "=": Konvertierung von "int" in "decimal", möglicher Datenverlust
   Code wird generiert.
-  1 of 856 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  12 of 1024 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
   Codegenerierung ist abgeschlossen.
   3D.vcxproj -> C:\Users\mariu\source\repos\3D\x64\Release\3D.exe

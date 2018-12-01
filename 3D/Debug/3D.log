@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\mariu\source\repos\3d\3d\main.cpp(127): warning C4244: "Argument": Konvertierung von "decimal" in "int32_t", möglicher Datenverlust
+main.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /INCREMENTAL:NO ignoriert.
+  LINK : /LTCG wurde angegeben, es ist jedoch keine Codegenerierung erforderlich. Entfernen Sie /LTCG aus der Linkbefehlszeile, um die Linkerleistung zu erhöhen.
+  3D.vcxproj -> C:\Users\mariu\source\repos\3D\Debug\3D.exe

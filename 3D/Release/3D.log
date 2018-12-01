@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\mariu\source\repos\3d\3d\main.cpp(127): warning C4244: "Argument": Konvertierung von "decimal" in "int32_t", möglicher Datenverlust
+  Code wird generiert.
+  All 868 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  3D.vcxproj -> C:\Users\mariu\source\repos\3D\Release\3D.exe

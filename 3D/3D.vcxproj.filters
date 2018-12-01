@@ -26,5 +26,11 @@
     <ClInclude Include="elements.h">
       <Filter>Quelldateien</Filter>
     </ClInclude>
+    <ClInclude Include="render.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="benchmark.hpp">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
